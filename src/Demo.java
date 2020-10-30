@@ -8,5 +8,6 @@ public class Demo {
 		System.out.println(--x);//10
 		System.out.println(x);
 		System.out.println("Hi");
+		System.out.println("Hello");
 		}
 	}  
